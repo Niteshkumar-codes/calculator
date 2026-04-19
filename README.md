@@ -26,11 +26,11 @@ This calculator performs basic arithmetic operations with a clean and user-frien
 
 🛠️ Technologies Used
 
-HTML5
+1.HTML5
 
-CSS3
+2.CSS3
 
-JavaScript (Vanilla JS)
+3.JavaScript (Vanilla JS)
 
 
 📂 Project Structure
@@ -47,10 +47,10 @@ calculator-project/
 
 💻 How to Run
 
-Download or clone this repository
+1.Download or clone this repository
 
-Open the project folder
+2.Open the project folder
 
-Double-click on index.html
+3.Double-click on index.html
 
-Calculator will run in your browser
+4.Calculator will run in your browser
